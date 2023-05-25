@@ -18,5 +18,3 @@
 </div>
 
 
-
-![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Asterecho&theme=vue&bg_color=fffff0)
